@@ -1,0 +1,8 @@
+cache
+cache/*
+pids
+pids/*
+sessions
+sessions/*
+sockets
+sockes/*

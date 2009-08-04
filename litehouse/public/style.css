@@ -1,0 +1,88 @@
+td, table{
+	font-family:verdana;
+	font-size:9px;
+	vertical-align:top;
+	line-height:12px;
+	color:#7F7F7F;
+	
+}
+
+
+form { margin:0px; padding:0px}
+body { margin:0px; padding:0px; background-color: #FFFFFF}
+
+a { color:#E93400; text-decoration:none}
+a:hover{ text-decoration:underline}
+
+span a { color:#E93400; text-decoration:underline}
+span a:hover{ text-decoration:none}
+
+.list ul{margin:0px; padding:0px; list-style:none; line-height:19px;}
+.list ul li{ background:url(/images/list_marker.gif) no-repeat left top; padding:0 0 0 10px}
+.list ul li a{ color:#E93400; text-decoration:underline}
+.list ul li a:hover{text-decoration:none}
+
+.policy{ color:#7F7F7F}
+.policy a{ color:#000000; text-decoration:none}
+.policy a:hover{ text-decoration:underline}
+
+span{ color:#000000}
+
+strong a{ font-size:10px}
+
+strong{ font-size:10px}
+b{ color:#E93400}
+
+.form input {
+	width:191px;
+	height:21px;
+	font-family:verdana;
+	font-size:9px;
+	color: #7F7F7F;
+	padding:2 0 0 6px;
+	border-color:#D5D5D5;
+	border-style:solid;
+	border-width:1px;
+	background-color:#F8F8F8
+}
+
+.form textarea {
+	width:191px;
+	height:102px;
+	font-family:verdana;
+	font-size:9px;
+	color:#7F7F7F;
+	overflow:hidden;
+	padding:2 0 0 6px;
+	border-color:#D5D5D5;
+	border-style:solid;
+	border-width:1px;
+	background-color:#F8F8F8
+}
+
+.custom-page-header {
+	margin: 0 0 0 28px; color: #393939;font-family: Tahoma; font-size: 20px; line-height: 20px; font-weight: normal; padding: 0;
+}
+
+.news-block {
+	position: absolute;
+	background: white;
+	top: 242px;
+	margin-left: 10px;
+	width: 193px;
+	padding: 5px;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=85); /* IE 5.5+*/
+	-moz-opacity: 0.85; /* Mozilla 1.6 и ниже */
+	-khtml-opacity: 0.85; /* Konqueror 3.1, Safari 1.1 */
+	opacity: 0.85; /* CSS3 - Mozilla 1.7b +, Firefox 0.9 +, Safari 1.2+, Opera 9 */
+}
+
+.news-block h3 {
+	padding: 10px 0 0 0;
+	margin: 0;
+}
+
+.news-block small {
+	display: block;
+	padding-bottom: 5px;
+}
